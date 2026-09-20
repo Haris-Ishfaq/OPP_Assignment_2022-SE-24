@@ -1,0 +1,6 @@
+Economy|P-1001|John Doe|john.doe@email.com
+Economy|P-1002|Jane Smith|jane.smith@email.com
+Economy|P-1003|Bob Johnson|bob.johnson@email.com
+Business|P-2001|Alice Brown|alice.brown@email.com
+Business|P-2002|Charlie Davis|charlie.davis@email.com
+Business|P-2003|Frank Miller|frank.miller@email.com
